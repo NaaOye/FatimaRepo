@@ -2,7 +2,7 @@
 ---
 Annang Fatimata Naa Oye
 ---
-Sudent ID: 10957629
+Student ID: 10957629
 ---
 Biomedical Engineering
 ---
